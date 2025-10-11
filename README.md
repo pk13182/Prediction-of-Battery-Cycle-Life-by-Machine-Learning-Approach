@@ -6,7 +6,7 @@ This repository contains my work on **Data-Driven Battery cycle-Life Prediction*
 
 ## Report
 
-- [Download Recent Report (PDF)](reports/Data-driven%20prediction%20of%20battery%20cycle%20life%20before%20capacity%20degradation%20(1).pdf)
+- [Download Recent Report (PDF)](./Recent_progress_Report.pdf)
 
 ---
 
