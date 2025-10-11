@@ -1,6 +1,6 @@
 # Battery_Life_Prediction
 
-This repository contains my work on ** Data-Driven Battery  cycle-Life Prediction**, conducted under the guidance of **Dr. Ganesh  Madabattula**, IIT(BHU) Varanasi.
+This repository contains my work on **Data-Driven Battery cycle-Life Prediction**, conducted under the guidance of **Dr. Ganesh  Madabattula**, IIT(BHU) Varanasi.
 
 ---
 
